@@ -1,10 +1,11 @@
 # NodeJS-Multiplicacion
-- To the run first execute the next commands
-- npm install
 
-- To create a file run command 
-- node app.js  crear -b 9
+### To the run first execute the next commands
+`npm install`
 
-En donde 9 sera el numero de la tabla de multiplicar. 😊👌
+### To create a file run command 
+`node app.js  crear -b 9`
 
-- API creada en clases en 5to grado en la Universidad Tecnológica de Aguascalientes.
+-En donde 9 sera el numero de la tabla de multiplicar. 😊👌
+
+**API creada en clases en 5to grado en la Universidad Tecnológica de Aguascalientes.**
